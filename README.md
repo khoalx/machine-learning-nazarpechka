@@ -1,1 +1,1 @@
-# ml-nazarpechka
+# machine-learning-nazarpechka
